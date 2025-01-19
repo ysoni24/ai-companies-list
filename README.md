@@ -108,16 +108,6 @@ This repository provides a comprehensive list of top AI companies, along with th
 | Zest Finance | [LinkedIn](https://www.linkedin.com/company/zestfinance) | [Careers](https://www.zestfinance.com/careers) | Los Angeles CA | Credit AI |
 ---
 
-## 🤝 Contribute
-Have a company to add? Feel free to open a pull request or create an issue! Contributions are welcome. 🌟
-
----
-
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🏷️ Categories
 
 ### Research & Core AI
@@ -149,6 +139,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 2. Click on career links to explore opportunities
 3. Visit company LinkedIn pages for more information
 4. Check company locations for remote/hybrid options
+
+---
+
+## 🤝 Contribute
+Have a company to add? Feel free to open a pull request or create an issue! Contributions are welcome. 🌟
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
