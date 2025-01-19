@@ -156,5 +156,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 [![GitHub stars](https://img.shields.io/github/stars/ysoni24/ai-companies-list?style=social)](https://github.com/ysoni24/ai-companies-list)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/ysoni24)
+
+---
 ![AI](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
